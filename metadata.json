@@ -1,0 +1,7 @@
+{
+  "name": "School Canteen Management SaaS",
+  "description": "A comprehensive multi-tenant SaaS for managing school canteens, menus, student subscriptions, and attendance with AI-powered menu planning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
